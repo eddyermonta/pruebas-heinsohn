@@ -6,10 +6,10 @@ teorico busqueda color https://github.com/eddyermonta/pruebas-heinsohn/tree/main
 
 # punto 1 https://github.com/eddyermonta/pruebas-heinsohn/tree/main/heinsohn-Prueba/Heinsohn/src/com/heinsohn/punto1 
 
-# punto 2 https://github.com/eddyermonta/pruebas-heinsohn/tree/main/heinsohn-Prueba/Heinsohn/src/com/punto2
+# punto 2 https://github.com/eddyermonta/pruebas-heinsohn/tree/main/heinsohn-Prueba/Heinsohn/src/punto2
 
-# punto 3 https://github.com/eddyermonta/pruebas-heinsohn/tree/main/heinsohn-Prueba/Heinsohn/src/com/punto3
+# punto 3 https://github.com/eddyermonta/pruebas-heinsohn/tree/main/heinsohn-Prueba/Heinsohn/src/punto3
 
-# punto 4 https://github.com/eddyermonta/pruebas-heinsohn/tree/main/heinsohn-Prueba/Heinsohn/src/com/punto4
+# punto 4 https://github.com/eddyermonta/pruebas-heinsohn/tree/main/heinsohn-Prueba/Heinsohn/src/punto4
 
 
